@@ -37,3 +37,15 @@ Get True or False - based desire path present or not
 ```
 os.path.isfile("directory/path/pom.xml")
 ```
+  
+# Python Code Quality
+  
+Using pylint and flake for improving code quality.
+Pylint already enforces pep8 standard.
+  
+How to generate pylintrc file. rc file is required to control pyline rules globally
+  
+```
+pylint --generate-rcfile >> .pylintrc
+```
+
