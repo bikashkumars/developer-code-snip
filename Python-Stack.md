@@ -12,6 +12,6 @@ How to learn python basic
 [Python by Penn University](https://in.coursera.org/learn/python-programming-intro)
 
 
-## Dada analyst and data Engineer
+## Data analyst and data Engineer
 
 [Course](https://in.coursera.org/specializations/python)
