@@ -15,3 +15,8 @@ How to learn python basic
 ## Data analyst and data Engineer
 
 [Course](https://in.coursera.org/specializations/python)
+
+
+## Python code inside HTML
+
+[Python for HTML frontend](https://pyscript.net/)
