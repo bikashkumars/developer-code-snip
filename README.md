@@ -7,8 +7,8 @@ Easy Coding Tips and Tricks
 
 ### Resopistory
 
-*PagingAndSortingRepository
-*JpaSpecificationExecutor
+- PagingAndSortingRepository
+- JpaSpecificationExecutor
 
 ```java
 import java.util.List;
