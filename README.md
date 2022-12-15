@@ -9,6 +9,9 @@ Easy Coding Tips and Tricks
 
 - PagingAndSortingRepository
 - JpaSpecificationExecutor
+- JpaRepository
+
+JpaRepository contains the full API of CrudRepository and PagingAndSortingRepository.
 
 ```java
 import java.util.List;
